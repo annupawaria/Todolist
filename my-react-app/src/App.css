@@ -1,0 +1,24 @@
+
+body{
+  text-align: center;
+  background-color: aquamarine;
+  justify-content: center;
+  place-content: center;
+}
+
+  
+
+.container{
+background-color: rgb(19, 122, 122);
+height: 100px;
+width: 400px;
+place-content: center;
+text-align: center;
+justify-content: center;
+
+}
+button{
+  color: white;
+  background-color: rgb(27, 75, 27);
+  border: none;
+}
