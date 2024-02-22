@@ -10,15 +10,30 @@ body{
 
 .container{
 background-color: rgb(19, 122, 122);
-height: 100px;
+height: 300px;
 width: 400px;
 place-content: center;
 text-align: center;
 justify-content: center;
+color: white;
 
 }
 button{
   color: white;
   background-color: rgb(27, 75, 27);
   border: none;
+  width: 99px;
+  height:21px;
+  margin-left: 2px;
+  border-radius: 5px;
+}
+.List-heading{
+background-color: purple;
+border: none;
+display: flex;
+width: 60%;
+color: black;
+}
+button:hover{
+  background-color: lightgreen;
 }
